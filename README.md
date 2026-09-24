@@ -12,6 +12,7 @@ Esta	es	mi	primera	práctica	con	GitHub1.
 
 
 
+
 Esta	es	mi	primera	práctica	con	GitHub2.
 
 
@@ -19,4 +20,7 @@ Esta	es	mi	primera	práctica	con	GitHub2.
 Estoy	trabajando	en	una	rama	nueva.
 
 
+
+
+Cambio de nueva rama
 
